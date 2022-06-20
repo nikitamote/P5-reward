@@ -26,7 +26,7 @@
 - Keep your code clean, maintainable and readable, usage of formatters and linters might come handy here
 - Follow best practices for particular framework/library
 - Your project should have a `README.md` file, which should contain below:
-  - Minimum steps and configurations needed to run the project in local machine under `# Getting Started` section, sample provided below:
+  - Minimum steps and configurations needed to run the project in local machine under `# Getting Started` section, sample provided below (below content will change based on your project and technology, below is given just for example):
     ```bash
     # after cloning the repo
     
@@ -125,7 +125,7 @@ Not possible as Person A has 50 P5 in balance
 
 ## Backend
 
-- Use any DB and NodeJS framework of your choice
+- Use any DB and framework of your choice or as mentioned by interviewer/recruiter
 - Authentication and authorization is not needed
 - A single user can reward 100 P5
 
@@ -172,7 +172,7 @@ Not possible as Person A has 50 P5 in balance
 
 - We are only looking for decent UI, which can just work.
 - Please do not use any css framework like bootstrap, tailwind, etc.
-- You can use either React, Vue, Angular or vanilla HTML/CSS/JavaScript.
+- You can use either Ruby on Rails, React, Vue, Angular or vanilla HTML/CSS/JavaScript.
 - Inline styles not allowed
 - `:id` in all routes below is `id` of user
 
