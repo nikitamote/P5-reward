@@ -150,23 +150,18 @@ Not possible as Person A has 50 P5 in balance
   }
   ```
 
-#### P5History
-
-- Datetime stamp
-- Amount - number
-- Given to (User ID) - string
-
 #### RewardHistory
 
 - Datetime stamp
 - Amount - number
 - Given by (User ID) - string
+- Given to (User ID) - string
 
 ### REST APIs
 
 - User - Create, edit
-- P5 - Create, read, delete
-- Reward - Read
+- P5 (Points given) - Create, read, delete
+- Reward (Points received) - Read
 
 ### Frontend
 
