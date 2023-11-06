@@ -134,20 +134,6 @@ Not possible as Person A has 50 P5 in balance
 
 - ID - string
 - Name - string
-- P5 - object
-  ```json
-  {
-      balance: number,
-      history: Array<P5History>
-  }
-  ```
-- Reward - object
-  ```json
-  {
-      balance: number,
-      history: Array<RewardHistory>
-  }
-  ```
 
 #### RewardHistory
 
