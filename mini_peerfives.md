@@ -138,7 +138,7 @@ Not possible as Person A has 50 P5 in balance
 #### RewardHistory
 
 - Datetime stamp
-- Amount - number
+- Points - number
 - Given by (User ID) - string
 - Given to (User ID) - string
 
