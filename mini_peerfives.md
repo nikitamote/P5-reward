@@ -9,7 +9,6 @@
   - [Backend](#backend)
     - [Entities/Models](#entitiesmodels)
       - [User](#user)
-      - [P5History](#p5history)
       - [RewardHistory](#rewardhistory)
     - [REST APIs](#rest-apis)
     - [Frontend](#frontend)
